@@ -1,0 +1,7 @@
+~ $ sgem install bunto
+~ $ bunto --version
+~ Bunto (v1.0)
+~ $ bunto new mywebsite
+~ $ cd mywebsite
+~/mywebsite $ bunto serve
+# => Now browse to http://localhost:4000
