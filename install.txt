@@ -1,4 +1,4 @@
-~ $ sgem install bunto
+~ $ gem install bunto
 ~ $ bunto --version
 ~ Bunto (v1.0)
 ~ $ bunto new mywebsite
